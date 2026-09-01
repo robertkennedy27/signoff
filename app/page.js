@@ -114,19 +114,19 @@ const people = [
   {
     name: "Komal Salvi",
     message:
-      "Komal, thank you for all the help you provided whenever something needed to be checked or clarified. Your careful testing helped catch issues early and made things smoother. I genuinely appreciate the effort you put in and wish you continued success in everything ahead.",
+      "Komal, thank you for being such a wonderful part of this journey. I’ve really enjoyed the small conversations, everyday interactions, and good moments we shared along the way. These little things truly make the workplace special and memorable. Wishing you lots of success, happiness, and growth in everything you do ahead!",
   },
 
   {
     name: "Avinash Verma",
     message:
-      "Avinash, thank you for the effort and attention you always put into checking things carefully. Your contribution helped catch issues early and made the overall work much smoother. I really appreciate the help and the effort you put in. Wishing you all the best for the future.",
+      "Avinash, it was really great knowing you and being part of this journey together. I truly enjoyed working with you and the experiences we shared along the way. Wishing you new opportunities, great experiences, and lots of success ahead. Keep learning, growing, and moving forward!",
   },
 
   {
     name: "Ankul Gaikwad",
     message:
-      "Ankul, I genuinely appreciate the effort you put into testing and checking things thoroughly. Your contribution helped avoid many issues and made a real difference in the work. Thank you for all the help along the way. Wishing you continued success and growth ahead.",
+      "Ankul, it was genuinely great having you as part of this journey. The time we spent working together brought its own share of learning, experiences, and good moments. As you move ahead, I hope you come across opportunities that challenge you, help you grow, and take you closer to where you want to be. Keep doing your thing, keep growing, and wishing you nothing but the best for what’s next!",
   },
 
   {
