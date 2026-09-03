@@ -60,7 +60,7 @@ const people = [
   {
     name: "Rohan Gunjal",
     message:
-      "Rohan, it was great sharing a part of this journey with you. I truly appreciate the good interactions and moments we had along the way. I’ve especially valued your calm and composed approach to work and the way you assign requests without creating unnecessary pressure. It always makes working with you comfortable and positive. As I move forward, I wish you continued success and many new opportunities ahead. Hope you achieve great things and enjoy every opportunity that comes your way. All the very best!"},
+      "Rohan, it was great sharing a part of this journey with you. I truly appreciate the good interactions and moments we had along the way. I’ve especially valued your way you assign requests without creating unnecessary pressure. It always makes working with you comfortable and positive. As I move forward, I wish you continued success and many new opportunities ahead. Hope you achieve great things and enjoy every opportunity that comes your way. All the very best!"},
 
   {
     name: "Rucha Bhawarthe",
